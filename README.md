@@ -1,4 +1,3 @@
-desafiofrontend
 Desafio WEB para Front-End *
 
 Construir o site conforme as imagens e o vídeo, podendo usar todas as imagens que estão na pasta assets.
