@@ -12,4 +12,3 @@ Layout deve ser responsivo e se adaptar a todas as resoluções de dispositivos 
 Entrega:
 
 Todo código deverá ser colocado no seu github pessoal de forma pública. Repassar o link para acesso do mesmo.
-Data limite de entrega 19/11/2019.
